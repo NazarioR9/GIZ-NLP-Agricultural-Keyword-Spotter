@@ -33,7 +33,7 @@ You must follow this structure when runing the notebooks.
 
 ## 🏆<span style='color:green'> Final Leaderbord </span>
 
-🏅**Position**: 8th  
+🏅**Position**: 7th  
 🏅**Score**: 0.8019 (LogLoss) 
 
 [See the leaderboard](https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/leaderboard)
