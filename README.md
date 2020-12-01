@@ -5,9 +5,6 @@
 The objective of this challenge is to classify agricultural audio keywords in English and Lugandan from Uganda.
 For more information about this challenge, have a look on [Zindi](https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter).
 
-##  😷<span style='color:green'> The solution </span> 🧠
-
-
 
 ## 🌴<span style='color:green'> Repository structure (tree😎)</span>
 You must follow this structure when runing the notebook.
@@ -33,12 +30,14 @@ You must follow this structure when runing the notebook.
  
 ```
 
+
 ## 🏆<span style='color:green'> Final Leaderbord </span>
 
 🏅**Position**: 8th  
 🏅**Score**: 0.8019 (LogLoss) 
 
 [See the leaderboard](https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/leaderboard)
+
 
 ## 💻<span style='color:green'> Authors </span>
 
