@@ -20,7 +20,7 @@ NB: We tried other architectures like Densenet, Efficienet, but it seemed that t
 ## 🌴<span style='color:green'> Repository structure (tree😎)</span>
 You must follow this structure when runing the notebooks.
 
-|----Data  
+|----data  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- raw  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- audio_files.zip  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |--- AdditionalUtterances.zip  
